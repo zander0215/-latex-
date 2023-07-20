@@ -6,10 +6,22 @@
 \contentsline {section}{\numberline {2}系统需求分析}{4}{section.2}%
 \contentsline {section}{\numberline {3}总体设计}{5}{section.3}%
 \contentsline {section}{\numberline {4}详细设计}{6}{section.4}%
+\contentsline {subsection}{\numberline {4.1}数据结构设计}{6}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}case1()设计}{7}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}case2()设计}{7}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}case3()设计}{8}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}case4()设计}{9}{subsection.4.5}%
+\contentsline {subsection}{\numberline {4.6}case5()设计}{9}{subsection.4.6}%
 \contentsline {section}{\numberline {5}系统调试}{10}{section.5}%
-\contentsline {section}{\numberline {6}测试结果与分析}{10}{section.6}%
-\contentsline {subsection}{\numberline {6.1}case1()测试图}{10}{subsection.6.1}%
-\contentsline {section}{\numberline {7}系统调试}{10}{section.7}%
-\contentsline {section}{\numberline {8}测试结果与分析}{11}{section.8}%
-\contentsline {subsection}{\numberline {8.1}case1()测试图}{11}{subsection.8.1}%
-\contentsline {section}{附录：源程序清单}{11}{figure.caption.10}%
+\contentsline {section}{\numberline {6}测试结果与分析}{11}{section.6}%
+\contentsline {subsection}{\numberline {6.1}测试用数据}{11}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}菜单界面}{12}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}case1()测试图}{13}{subsection.6.3}%
+\contentsline {subsection}{\numberline {6.4}case2()测试图}{14}{subsection.6.4}%
+\contentsline {subsection}{\numberline {6.5}case3()测试图}{16}{subsection.6.5}%
+\contentsline {subsection}{\numberline {6.6}case4()测试图}{18}{subsection.6.6}%
+\contentsline {subsection}{\numberline {6.7}case5()测试图}{19}{subsection.6.7}%
+\contentsline {section}{\numberline {7}总结}{21}{section.7}%
+\contentsline {section}{附录1：源程序清单}{22}{section*.33}%
+\contentsline {section}{附录2：时间安排}{55}{section*.34}%
+\contentsline {section}{评价表}{55}{section*.36}%
